@@ -62,13 +62,10 @@ How to Run:
 
 2. Open the index.html file in your browser to play the game.
 
-
-
-Screenshot:
-photo_5848346152971996015_y.jpg
-
-
-
 License:
 
 [Insert License Information here, if applicable]
+
+
+Screenshot:
+![Screenshot](photo_5848346152971996015_y.jpg)
